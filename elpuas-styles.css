@@ -1,0 +1,14 @@
+/* Icons Section */
+
+.third {
+  display: inline-block;
+  width: 27%;
+  margin: 3%;
+  border: none;
+  border-radius: 5px;
+}
+
+.third h3 {
+  text-transform: uppercase;
+  color: #1A3958;
+}
